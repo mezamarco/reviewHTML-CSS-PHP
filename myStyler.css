@@ -1,0 +1,55 @@
+body{
+
+	background-color: green;
+	margin:auto;
+	width: 90%;
+}
+
+a:hover{
+	color: yellow;
+}
+a:active{
+    color: blue;
+}
+
+
+img{
+	width:20%;
+	max-width: 300px;
+}
+
+#toCenter{
+	text-align:center;
+}
+
+table{
+	background-color: lightblue;
+	margin:auto;
+	border: 5px solid red;
+	padding: 15px;
+	font-size:25px;
+	border-collapse: separate;
+    border-spacing: 10px;
+}
+
+td{
+	background-color: green;
+	padding: 10px;
+}
+
+
+form{
+	text-align:center;
+	width:40%;
+	margin-top:40px;
+	margin-bottom: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	
+	padding:5px;
+	background-color:gray;
+	border:5px solid red;
+	min-width: 200px;
+	max-width: 400px;
+
+}
